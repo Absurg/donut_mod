@@ -16,4 +16,4 @@ ___
 ___
 
 #### CurseForge: (в будущем) 
-#### GitHub: ссылка
+#### GitHub:[ссылка](https://github.com/Absurg/donut_mod)
