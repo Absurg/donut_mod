@@ -6,7 +6,7 @@ license="MIT"
 [[mods]] #mandatory
 
 modId="donutmod"
-version="0.1.0"
+version="0.1.2"
 displayName="Donut Mod"
 logoFile="logodonutmod.png"
 credits="Thanks for this example mod goes to Java"
