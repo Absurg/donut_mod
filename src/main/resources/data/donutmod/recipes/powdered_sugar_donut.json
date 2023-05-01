@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "donutmod:donut"
+    }
+  ],
+  "result": {
+    "item": "donutmod:powdered_sugar_donut"
+  }
+}

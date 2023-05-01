@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "donutmod:donut_dough"
+  },
+  "result": "donutmod:donut",
+  "experience": 0.35,
+  "cookingtime": 200
+}

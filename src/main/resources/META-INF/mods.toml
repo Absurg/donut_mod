@@ -1,0 +1,30 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)" #mandatory
+
+license="MIT"
+
+[[mods]] #mandatory
+
+modId="donutmod"
+version="0.1.0"
+displayName="Donut Mod"
+logoFile="logodonutmod.png"
+credits="Thanks for this example mod goes to Java"
+authors="Absurg"
+description='''
+This mod will add a new food to the game - donuts, with 7 different toppings.
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.donutmod]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.donutmod]]
+    modId="minecraft"
+    mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

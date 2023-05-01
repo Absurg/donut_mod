@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "donutmod:donut"
+    },
+    {
+      "item": "donutmod:donut"
+    },
+    {
+      "item": "donutmod:donut"
+    }
+  ],
+  "result": {
+    "item": "donutmod:glowing_donut",
+    "count": 3
+  }
+}

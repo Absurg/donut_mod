@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "donutmod:donut"
+    }
+  ],
+  "result": {
+    "item": "donutmod:honey_donut"
+  }
+}
