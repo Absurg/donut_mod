@@ -1,19 +1,14 @@
 ## Donut Mod
 ___
 
- Этот мод добавит в вашу игру пончики, с 8 вариантами топпинга,
- такими как:
- Без начинки, с сахарной пудрой, с сахарной глазурью, ягодный, в меду, карамельный, шоколадный,
- а так-же пончик из светящихся ягод, который будет очень кстати в пещерах, благодаря эффекту ночного виденья.
- 
-___
-
-#### Мод разработан для Minecraft Forge, распространен под лицензией MIT, подробнее см. в LICENSE.txt
-
-#### Автор: Absurg
-#### Текстуры рисовал: Absurg
+This mod will add donuts to your game, with 8 different toppings to choose from, including:
 
 ___
 
-#### CurseForge: (в будущем) 
-#### GitHub:[ссылка](https://github.com/Absurg/donut_mod)
+ Mod developed for Minecraft Forge, distributed under the MIT License. See LICENSE.txt for more information.  
+ Author: Absurg  
+ Textures drawn by: Absurg  
+___
+
+#### CurseForge: (coming soon)
+#### GitHub: [link](https://github.com/Absurg/donut_mod)
