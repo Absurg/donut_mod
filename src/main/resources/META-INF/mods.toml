@@ -9,7 +9,7 @@ modId="donutmod"
 version="0.1.2"
 displayName="Donut Mod"
 logoFile="logodonutmod.png"
-credits="Thanks for this example mod goes to Java"
+credits="Thanks for this example mod goes to Java!"
 authors="Absurg"
 description='''
 This mod will add a new food to the game - donuts, with 7 different toppings.
