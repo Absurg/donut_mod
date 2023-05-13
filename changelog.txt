@@ -3,7 +3,7 @@
     Updated honey donut texture.
     Fix for berry donut texture.
     Glowing donut is now always eatable.
-    Changed the duration from glowing donut, from 6000t to 3600t (3 m)
+    Changed the duration from glowing donut, from 6000t to 2400t (2 m)
 0.1.1
     Added items:
     -Honey donut,

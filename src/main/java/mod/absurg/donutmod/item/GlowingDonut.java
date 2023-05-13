@@ -14,7 +14,7 @@ public class GlowingDonut extends Item {
                         .nutrition(6)
                         .alwaysEat()
                         .effect(() -> new EffectInstance
-                                (Effects.NIGHT_VISION, 3600, 0), 1).build())
+                                (Effects.NIGHT_VISION, 2400, 0), 1).build())
         );
     }
 }
